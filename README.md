@@ -21,4 +21,4 @@ A list of resin.io starter projects and examples for hardware kits.
 * [PaPiRus ePaper / eInk Screen HAT](https://www.modmypi.com/raspberry-pi/screens-and-displays/papirus-epaper--eink-screen-hat-for-raspberry-pi-large/): [resinio-PaPiRus](https://github.com/resin-io-playground/resinio-PaPiRus), [resin-nametag](https://github.com/resin-io-playground/resin-nametag)
 * [robotic arm](https://shop.pimoroni.com/products/mearm) and [Picon Zero](https://shop.pimoroni.com/products/picon-zero-intelligent-robotics-controller-for-raspberry-pi): [mime-mearm](https://github.com/resin-io-playground/mime-mearm)
 * [Unicorn pHAT](https://shop.pimoroni.com/products/unicorn-phat):
-* [Play HAT](http://4tronix.co.uk/store/index.php?rt=product/product&path=43_83&product_id=441):
+* [Play HAT](http://4tronix.co.uk/store/index.php?rt=product/product&path=43_83&product_id=441): [resin-playhat](https://github.com/resin-io-playground/resin-playhat)
