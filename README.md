@@ -3,8 +3,8 @@
 A list of resin.io starter projects and examples for hardware kits.
 
 * [Grove Pi+](https://www.dexterindustries.com/shop/grovepi-board/):
-* [Explorer HAT Pro](https://shop.pimoroni.com/collections/raspberry-pi/products/explorer-hat):
-* [Roving Robot](https://shop.pimoroni.com/products/sts-pi):
+* [Explorer HAT Pro](https://shop.pimoroni.com/collections/raspberry-pi/products/explorer-hat): [explorer-hat-python](https://github.com/resin-io-playground/explorer-hat-python)
+* [Roving Robot](https://shop.pimoroni.com/products/sts-pi): [STS-pi-python](https://github.com/resin-io-playground/STS-pi-python)
 * [SenseHAT](https://shop.pimoroni.com/products/raspberry-pi-sense-hat):
 * [Automation HAT](https://shop.pimoroni.com/collections/raspberry-pi/products/automation-phat): [pimoroni-automation-hat  ](https://github.com/resin-io-playground/pimoroni-automation-hat)
 * [Speaker pHAT](https://shop.pimoroni.com/collections/raspberry-pi/products/speaker-phat):
